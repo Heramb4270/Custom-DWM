@@ -40,7 +40,7 @@ like this in your .xinitrc:
     	sleep 1
     done &
     exec dwm
-
+![Alt text](dwm-config2.png)
 
 Configuration
 -------------
